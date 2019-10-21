@@ -7,7 +7,8 @@
 ## How to Run
 #### 1. Download and extract the project
 #### 2. Go to project directory 
-#### 3. then run command npm start
+#### 3. Then run command npm start
+#### 4. To run on local host paste this in browser url bar after step 3 http://localhost:3000/ 
 
 ## Some Screenshot of project's working
 
