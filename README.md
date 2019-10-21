@@ -1,7 +1,7 @@
 # Weather-App
 
 ## Requirements
-#### 1. Install nodejs from <a href="https://nodejs.org/en/">Here</a>
+#### 1. Install nodejs from <a href="https://nodejs.org/en/">here</a>
 #### 2. npm 
 
 ## How to Run
